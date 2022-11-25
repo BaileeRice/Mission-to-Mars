@@ -1,6 +1,11 @@
 # Mission-to-Mars
+
+![image](https://user-images.githubusercontent.com/105184244/204055035-812ec0d9-5cf6-432a-91ea-1ddacff47a5b.png)
+
+
 Automating a web browser to visit different websites to extract data about the Mission to Mars
 storing the info in a NoSQL database, and then rendering the data in a web application with Flask
+
 ---
 # GOALS:
 
